@@ -178,7 +178,7 @@ button::-moz-focus-inner {
 }
 
 .mfp-close-btn-in .mfp-close {
-    color: #000000;
+    color: #fff;
 /*        background: #fff;*/
     border-radius: 50%;
 }
